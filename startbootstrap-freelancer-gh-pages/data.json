@@ -1,0 +1,22 @@
+{
+	"CompanyData":[{
+		
+		"UserID": 58272,
+		"Company": "Graphic Innovation",
+		"Contact": "Catherine Johnson"
+		},
+		{
+		"UserID": 58273,
+		"Company": "Allen's Tree Service",
+		"Contact": "Jason Wallace"
+		}
+	],
+
+
+	"VulData":[{
+		
+		"Email": "SHall2020@graphicinnovation.com",
+		"Company": "Graphic Innovation",
+		"VulName": "Samantha Hall"
+	}]
+}
